@@ -11,7 +11,9 @@ export default class User extends Component {
         )
     }
 
-    User.propTypes = {
-        name: PropTypes.string.isRequired
-    }
+
+}
+
+User.propTypes = {
+    name: PropTypes.string.isRequired
 }
